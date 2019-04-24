@@ -1,0 +1,24 @@
+{
+  "name": "@yannbertrand/eslint-config",
+  "version": "0.0.0-development",
+  "description": "My personal & opinionated ESLint config",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "homepage": "https://github.com/yannbertrand/eslint-config#readme",
+  "bugs": "https://github.com/yannbertrand/eslint-config/issues",
+  "repository": "github:yannbertrand/eslint-config",
+  "license": "MIT",
+  "author": "Yann Bertrand <5855339+yannbertrand@users.noreply.github.com>",
+  "files": [
+    "index.js",
+    "rules.json"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": ">= 4.12.1"
+  }
+}
